@@ -1,0 +1,2 @@
+# intership-project
+AI FINANCE SUPPORT ASSISTANT
